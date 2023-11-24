@@ -1,0 +1,10 @@
+Untold;Music;03.08.2023;100000;https://www.facebook.com/UNTOLDFestival/
+Neversea;Music;06.07.2023;50000;https://neversea.com/
+Electric Castle;Music;19.07.2023;75000;https://electriccastle.ro/
+Street Food Festival;Food;20.06.2023;12000;https://www.facebook.com/StreetFoodFestivalRomania/?locale=ro_RO
+Bookfest;Books;28.09.2023;13422;https://bookfest.ro/
+TIFF;Films;25.05.2023;35674;https://tiff.ro/
+FITS;Theatre;23.06.2023;34000;https://www.sibfest.ro/
+Redbull Romaniacs;Sports;03.10.2023;10000;https://www.redbullromaniacs.com/for-competitors/register-to-race-in-2023/
+ARTmania;Music;28.07.2023;22000;https://www.artmaniafestival.ro/ro/
+Sports Festival;Sports;01.06.2023;11000;https://www.sportsfestival.com/news/sports-festival-2023/
